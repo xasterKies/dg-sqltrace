@@ -1,2 +1,2 @@
 # dg-sqltrace
-A python django package that trace and inspect a bunch of woven SQL queries in your terminal
+A python django package that trace and inspect a bunch of SQL queries in your terminal

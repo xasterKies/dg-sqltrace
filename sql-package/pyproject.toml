@@ -1,0 +1,15 @@
+[project]
+name = "dg-sqltrace"
+version = "1.0.1"
+description = "A Django middleware package that logs and inspect SQL queries in your terminal"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = {
+    { name = "xasterKies" },
+}
+
+dependencies = [
+    "Pygments>=2.14.0","sqlparse>=0.4.3",
+]
+
+requires-python = ">=3.11"

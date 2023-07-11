@@ -1,4 +1,4 @@
-# dg-sqltrace ⚙️
+# ⚙️ dg-sqltrace
 
 > A Django middleware package that helps inspect and trace SQL query executions in your terminal. - Used to easily debug a bunch of intertwined SQL queries in your terminal.
 

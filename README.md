@@ -16,7 +16,7 @@ I started developing this tool in response to a challenge I encountered while wo
 ### Features
 
 - Trace SQL queries
-- Inspect and check traces for repeated queries
+- Inspect and check traces of repeated SQL queries
 
 
 ### Dependencies and Installs

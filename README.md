@@ -24,7 +24,7 @@ I started developing this tool in response to a challenge I encountered while wo
 - Python3
   - Install Python3 for [linux/mac/windows](https://www.python.org/downloads)
 
--Pip & Venv
+- Pip & Venv
    - Setup pip and venv [here](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
 
 

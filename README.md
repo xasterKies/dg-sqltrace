@@ -10,7 +10,7 @@
 
 ### Why?
 
-I started developing this tool in response to a challenge I encountered while working on a pre-existing Django application. Upon joining the project, I discovered numerous bugs in the SQL queries, and its logic was convoluted, which made debugging quite a difficult task. I had to map out all the SQL relationships to be able to move on with the application development irrespective of its intertwined logic. During that period, I longed for a solution that would systematically trace and examine every executed SQL query within the application for the purpose of debugging. That's why I embarked on building this tool.
+I started developing this tool in response to a challenge I encountered while working on a pre-existing Django application. Upon joining the project, I discovered the project had numerous bugs in its SQL queries, and its logic was convoluted, which made debugging quite a difficult task. I had to map out all the SQL relationships to be able to move on with the application development irrespective of its intertwined logic. During that period, I longed for a solution that would systematically trace and examine every executed SQL query within the application in an orderly manner for the purpose of debugging. That's why I embarked on building this tool.
 
 
 ### Features

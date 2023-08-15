@@ -100,5 +100,5 @@ I started developing this tool in response to a challenge I encountered while wo
 
 ### Contributing
 
-if you will like to make a contribution or suggest anything to the project,will be happy to hear from you in issues or PRs section :)    
+if you will like to make a contribution or suggest anything to the project, will be happy to hear from you in issues or PRs section :)    
 
